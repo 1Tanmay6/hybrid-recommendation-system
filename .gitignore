@@ -1,2 +1,4 @@
 raw_data
 /src/pipelines
+src/NCF_model/*
+src/NCF_model.pb/*
