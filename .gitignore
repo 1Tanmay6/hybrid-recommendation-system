@@ -2,3 +2,5 @@ raw_data
 /src/pipelines
 src/NCF_model/*
 src/NCF_model.pb/*
+.venv
+temp.py
